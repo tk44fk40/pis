@@ -1,0 +1,11 @@
+'c_like_hoge
+ c_testc
+ c_name_poge
+ c_name_hoge
+ c_id_1
+ c_id_0
+ c_flg_2
+ c_flg_1
+ c_flg_0
+ c_date_11
+ c_date

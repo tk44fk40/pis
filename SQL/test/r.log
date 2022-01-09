@@ -1,0 +1,24 @@
+#SQLR0001
+ id | name |  birthday  | testc_col | del_flg 
+----+------+------------+-----------+---------
+  1 | hoge | 2022-01-09 | test      |       0
+(1 row)
+
+#SQLR0002
+ id | name |  birthday  | flg_c_col | del_flg 
+----+------+------------+-----------+---------
+  1 | hoge | 2022-01-09 |         0 |       0
+(1 row)
+
+#SQLR0901
+ id | name |  birthday  | testc_col | del_flg 
+----+------+------------+-----------+---------
+  1 | hoge | 2022-01-09 | test      |       0
+(1 row)
+
+#SQLR0902
+ id | name |  birthday  | flg_c_col | del_flg 
+----+------+------------+-----------+---------
+  1 | hoge | 2022-01-09 |         0 |       0
+(1 row)
+

@@ -1,0 +1,2 @@
+CREATE SCHEMA pis;
+CREATE SCHEMA jastem;

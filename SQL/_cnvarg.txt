@@ -1,0 +1,11 @@
+ c_testc     'test'
+ c_name_poge 'poge'
+ c_name_hoge 'hoge'
+'c_like_hoge 'hoge
+ c_id_1      1
+ c_id_0      0
+ c_flg_2     2
+ c_flg_1     1
+ c_flg_0     0
+ c_date_11   '2022-1-11'
+ c_date      '2022-01-09'
